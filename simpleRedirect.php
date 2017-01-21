@@ -1,4 +1,4 @@
 <?php
-header("http://google.com"); /* Redirect browser */
+header("Location: http://google.com"); /* Redirect browser */
 exit();
 ?>
